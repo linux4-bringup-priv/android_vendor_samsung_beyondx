@@ -77,7 +77,6 @@ PRODUCT_PACKAGES += \
     gatekeeper.exynos9820 \
     gralloc.exynos9820 \
     hwcomposer.exynos9820 \
-    memtrack.exynos9820 \
     libTOFProc_interface \
     libbauthserver \
     libbauthtzcommon \

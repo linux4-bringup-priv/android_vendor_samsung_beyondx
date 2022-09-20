@@ -80,7 +80,6 @@ PRODUCT_PACKAGES += \
     libTOFProc_interface \
     libbauthserver \
     libbauthtzcommon \
-    libc++-v28 \
     libexynosdisplay \
     libiu456_datapath_processor \
     sensors.bio \

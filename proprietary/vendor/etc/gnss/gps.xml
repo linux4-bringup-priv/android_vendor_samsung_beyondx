@@ -17,6 +17,7 @@
     ReAidingOnHotStart="false"
     SuplSslMethod="SSLv23_NO_TLSv1_2"
     SuplEnable="true"
+    SuplTlsEnable="true"
     SuplUseApn="false"
     SuplTlsCertPath="/vendor/etc/gnss/gps.cer"
     SuplTlsCertDirPath="/system/etc/security/cacerts"

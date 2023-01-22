@@ -246,8 +246,8 @@ Telenor SE"TelenorS
 Beeline UA"Beeline
 
 25503UA-KYIVSTAR"UA-KS
-
-25506life:)"life:)
+
+25506lifecell"lifecell
 
 25507TriMob"TriMob
 
@@ -283,6 +283,8 @@ Telekom.de"TDG
 26207o2 - de"o2 - de
 
 26601GIBTEL"GIBTEL
+
+26603GIBFIBRE"GIBFIBRE
 
 26801
 vodafone P"voda P
@@ -1167,6 +1169,8 @@ $
 
 455053 Macau"3 Macau
 
+45507CT Macau"CT Macau
+
 45601Cellcard"Cellcard
 
 45602Smart"Smart
@@ -1260,8 +1264,8 @@ Banglalink"BL
 502153unifi"unifi
 "
 50501Telstra Mobile"Telstra
-
-50502Optus AU"Optus
+
+50502	YES OPTUS"Optus
 
 50503vodafone AU"voda AU
 
@@ -1520,8 +1524,8 @@ AirtelTigo"ATL-TIGO
 62402	Orange CM"Orange
 
 62404Nexttel"Nexttel
-
-62501CVMOVEL"CVMOVEL
+
+62501ALOU"ALOU
 
 62502	Unitel T+"UnitelT+
 !
@@ -1663,6 +1667,8 @@ TELECEL ZW"TELECEL
 64903tnmobile"tnmobile
 
 65001TNM"TNM
+
+65002Access"Access
 
 65010Airtel"Airtel
 #
@@ -1883,4 +1889,4 @@ AeroMobile"AeroMob
 
 90150EchoStar Mobile"EML
 
-90171Tampnet"Tampnet%Published TS.25 Database 20 June 2022
+90171Tampnet"Tampnet*Published TS.25 Database 26 September 2022

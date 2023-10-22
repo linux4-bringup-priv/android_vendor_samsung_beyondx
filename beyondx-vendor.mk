@@ -81,11 +81,6 @@ PRODUCT_PACKAGES += \
     libiu456_datapath_processor \
     sensors.bio \
     sensors.sensorhub \
-    libaudioeffectoffload \
-    audio.primary.exynos9820 \
-    lib_SamsungRec_07010 \
-    libaudioproxy \
-    librecordalive \
     libswdap \
     android.hardware.gnss@2.0-impl \
     camera.exynos9820 \

@@ -85,7 +85,6 @@ PRODUCT_PACKAGES += \
     gps.default \
     vendor.samsung.hardware.gnss@2.0-impl \
     libexynoscamera3 \
-    libsec-ril \
     libwrappergps \
     gpsd \
     lhd \
